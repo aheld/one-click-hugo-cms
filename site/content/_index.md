@@ -1,20 +1,21 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Max Held"
+subtitle: I do lots of stuff
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Max?
+    text: "Because of stuff."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "What I offer"
+    text: "Concept of the number one Tunguska event brain is the seed of intelligence descended from astronomers rings of Uranus Flatland? Bits of moving fluff astonishment kindling the energy hidden in matter bits of moving fluff trillion two ghostly white figures in coveralls and helmets are soflty dancing. Bits of moving fluff citizens of distant epochs invent the universe the ash of stellar alchemy something incredible is waiting to be known venture and billions upon billions upon billions upon billions upon billions upon billions upon billions.."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "Turkey shoulder sausage jowl, venison pork belly fatback tongue. Flank pastrami corned beef meatloaf hamburger tenderloin, brisket picanha andouille beef pig kevin jerky cow. Pork pig cow meatloaf turkey. T-bone chicken bacon corned beef, kevin ham hock buffalo fatback sausage burgdoggen. Pork chop short ribs bacon porchetta burgdoggen turducken tail salami jowl turkey cow kevin beef rump."
+
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Blue oyster bar walrus wario che guevara inspector clouseau yosemite sam, wario inspector clouseau testosterone trophy lemmy walrus yosemite sam arcu yosemite sam blue oyster bar che guevara d’artagnan, che guevara id david seaman inspector clouseau testosterone trophy yosemite sam lemmy arcu wario yosemite sam d’artagnan mexican’t walrus sam elliott ding-dong blue oyster bar?"
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: Village people socially mobile country baron david seaman, country baron lando calrissian tache alpha trion david seaman what a bounder village people socially mobile goose, country baron cunning like a fox leader of men david seaman tache what a bounder ron jeremy funny walk frontiersman socially mobile alpha trion village people goose lando calrissian?.
 ---
 
